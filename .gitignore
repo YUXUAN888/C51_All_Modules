@@ -1,0 +1,5 @@
+/user/Objects/
+/user/Listings/
+*.uvgui*
+*.uvopt
+*.uvoptx

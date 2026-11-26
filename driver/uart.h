@@ -1,0 +1,1 @@
+void Uart1_Init(void);

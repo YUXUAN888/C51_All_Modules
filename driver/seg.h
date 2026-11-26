@@ -1,0 +1,1 @@
+void seg_display(unsigned char wei,unsigned char num,unsigned char point);
